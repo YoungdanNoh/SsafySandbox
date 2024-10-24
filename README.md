@@ -29,7 +29,7 @@
   - `main` branch는 두고 `이름-n주차` branch를 하나 만들어서 작업
 
 - ERD
-  - ![ERD_IMG](https://github.com/user-attachments/assets/7dfcf2aa-36df-400e-872f-66f9499ae1cd)
+  ![ERD_IMG](https://github.com/user-attachments/assets/7dfcf2aa-36df-400e-872f-66f9499ae1cd)
 
 
 - CRUD
