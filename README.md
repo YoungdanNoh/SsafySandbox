@@ -28,7 +28,7 @@
   - [시작 레포](https://github.com/T0nixx/SsafySandbox)에서 fork
   - `main` branch는 두고 `이름-n주차` branch를 하나 만들어서 작업
 
-- ERD
+- ERD <br>
   ![ERD_IMG](https://github.com/user-attachments/assets/7dfcf2aa-36df-400e-872f-66f9499ae1cd)
 
 
